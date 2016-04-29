@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1461892805 source:/home/joao/github/estruturas/lista-encadeada/exemplo1-lista-encadeada/main.c
+	<stdio.h>
+	<stdlib.h>
+
